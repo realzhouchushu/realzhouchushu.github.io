@@ -20,7 +20,6 @@ Education
 ======
 * Sept. 2025 - Present
   <br>Ph.D., School of Computer Science, Shanghai Jiao Tong University, advised by Prof.[Yanmin Qian](https://www.cs.sjtu.edu.cn/jiaoshiml/qianyanmin.html).
-
 * Sept. 2021 - Jun. 2025
   <br>B.S., School of Computer Science and Technology, Beijing Institute of Technology, advised by Prof. [Zhengyang Liu](https://scholar.google.com/citations?user=guG9lxgAAAAJ).
 
@@ -28,7 +27,6 @@ Experience
 ======
 * Nov. 2023 - Oct. 2024
   <br>Research Intern at Tsinghua University [C3I lab](https://c3i.ee.tsinghua.edu.cn/), advised by Prof.[Bowen Zhou](https://c3i.ee.tsinghua.edu.cn/author/%E5%91%A8%E4%BC%AF%E6%96%87/).
-
 * Oct. 2024 - Jul. 2025
-  <br>Research Intern at Meituan Voice Interaction Department, advised by [Shansong Liu](https://scholar.google.com/citations?user=ndVYtaUAAAAJ&hl=zh-CN&oi=ao).
+  <br>Research Intern at Meituan Voice Interaction Department/MM Department, advised by [Shansong Liu](https://scholar.google.com/citations?user=ndVYtaUAAAAJ&hl=zh-CN&oi=ao).
 
