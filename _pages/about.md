@@ -12,7 +12,7 @@ redirect_from:
 
 Awards & Honors
 ======
-<br>2025, Outstanding Graduate of Beijing, Beijing Municipal Education Commission.
+2025, Outstanding Graduate of Beijing, Beijing Municipal Education Commission.
 <br>2024, National Scholarship of China, Ministry of Education of the P.R. China.
 <br>2023, National Scholarship of China, Ministry of Education of the P.R. China.
 
