@@ -19,10 +19,10 @@ Awards & Honors
 Education
 ======
 * Sept. 2025 - Present
-  B.S., School of Computer Science, Shanghai Jiao Tong University, advised by Prof.[Yanmin Qian](https://www.cs.sjtu.edu.cn/jiaoshiml/qianyanmin.html).
+  <br>B.S., School of Computer Science, Shanghai Jiao Tong University, advised by Prof.[Yanmin Qian](https://www.cs.sjtu.edu.cn/jiaoshiml/qianyanmin.html).
 
 * Sept. 2021 - Jun. 2025
-  B.S., School of Computer Science and Technology, Beijing Institute of Technology, advised by Prof. [Zhengyang Liu](https://scholar.google.com/citations?user=guG9lxgAAAAJ).
+  <br>B.S., School of Computer Science and Technology, Beijing Institute of Technology, advised by Prof. [Zhengyang Liu](https://scholar.google.com/citations?user=guG9lxgAAAAJ).
 
 Experience
 ======
