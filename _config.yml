@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Chushu Zhou"
-description              : &description "Hi! I am a PhD student of computer science at Shanghai Jiao Tong University and Shanghai Innovation Institute."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD Can of computer science at Shanghai Jiao Tong University and Shanghai Innovation Institute"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://realzhouchushu.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Hi! I am a PhD student of computer science at Shanghai Jiao Tong University and Shanghai Innovation Institute."
   location         : "Shanghai, China"
-  employer         : "Red Brick University"
+  employer         : "SJTU & SII"
   uri              : # URL
   email            : "zhouchushu@sii.edu.cn" 
 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/realzhouchushu"
+  github           : "realzhouchushu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -71,13 +71,13 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/chushuzhou03"
+  twitter          : "chushuzhou03"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "chushu-16-53"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
