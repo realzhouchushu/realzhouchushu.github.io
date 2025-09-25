@@ -21,7 +21,7 @@ Education
 * Sept. 2025 - Present
   <br>Ph.D., School of Computer Science, Shanghai Jiao Tong University, advised by Prof.[Yanmin Qian](https://www.cs.sjtu.edu.cn/jiaoshiml/qianyanmin.html).
 * Sept. 2021 - Jun. 2025
-  <br>B.S., School of Computer Science and Technology, Beijing Institute of Technology, advised by Prof. [Zhengyang Liu](https://scholar.google.com/citations?user=guG9lxgAAAAJ).
+  <br>B.S., School of Computer Science and Technology, Beijing Institute of Technology, advised by Prof. [Zhengyang Liu](https://cs.bit.edu.cn/szdw/jsml/bssds/911c46a950e641619082ff62b785e7f0.htm).
 
 Experience
 ======
