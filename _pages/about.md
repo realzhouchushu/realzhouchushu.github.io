@@ -28,5 +28,5 @@ Experience
 * Nov. 2023 - Oct. 2024
   <br>Research Intern at Tsinghua University [C3I lab](https://c3i.ee.tsinghua.edu.cn/), advised by Prof.[Bowen Zhou](https://c3i.ee.tsinghua.edu.cn/author/%E5%91%A8%E4%BC%AF%E6%96%87/).
 * Oct. 2024 - Jul. 2025
-  <br>Research Intern at Meituan Voice Interaction Department/MM Department, advised by [Shansong Liu](https://scholar.google.com/citations?user=ndVYtaUAAAAJ&hl=zh-CN&oi=ao).
+  <br>Research Intern at Meituan M17 MM Department, advised by [Shansong Liu](https://scholar.google.com/citations?user=ndVYtaUAAAAJ&hl=zh-CN&oi=ao).
 
