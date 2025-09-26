@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chushu's homepage"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
